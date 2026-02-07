@@ -1,10 +1,10 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+permalink: /:title
+url: #catalie.quest
+baseurl: /
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Catalie Quest
+description: You're invited to an awards ceremony.
 google_verification: null
 
 

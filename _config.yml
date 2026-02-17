@@ -1,10 +1,10 @@
 permalink: /:title
-url: #catalie.quest
+url: #Your url here
 baseurl: /
 
 # variables
-name: Catalie Quest
-description: You're invited to an awards ceremony.
+name: catalie.quest
+description: Your description here
 google_verification: null
 
 

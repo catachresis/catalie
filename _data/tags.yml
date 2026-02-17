@@ -1,8 +1,11 @@
 tag1:
-  name: ceremony and schedule
+  name: tag1
 
 tag2:
-  name: travel and lodging
+  name: tag2
 
 tag3:
-  name: faqs
+  name: tag3
+
+tag4:
+  name: tag4

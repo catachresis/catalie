@@ -1,4 +1,6 @@
-# Windows 95 Theme for Jekyll
+This is a website for an awards ceremony (it is not a wedding).
+
+### Windows 95 Theme for Jekyll
 
 ![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
 

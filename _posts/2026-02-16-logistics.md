@@ -8,6 +8,8 @@ tags: Logistics
 
 The main activities will take place in Oakland and Berkeley, California. The venues are largely accessible via public transit. You can fly into either SFO (an hour on BART or a 35-55 minute car ride) or OAK (30 minutes on BART or a 15-20 minute car ride).
 
+Please note that the venue includes one flight of stairs and as of March 2026, the elevator is out of service and the City of Oakland doesn't know when it'll be back.
+
 # Dressing Fall in Northern California
 
 Honestly, it's hard to say what the weather will be like in November. We still have beautiful days, though rain can sometimes be in the forecast. 

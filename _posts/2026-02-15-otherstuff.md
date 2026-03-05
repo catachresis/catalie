@@ -40,4 +40,5 @@ What are other fun things I can get into while I'm visiting? Wow, we're so glad 
 - Children's Fairyland, an Oakland classic, is literally the inspiration for Disneyland. But it's so much trippier than that.
 - Lawrence Hall of Science, a hands-on science and natural history museum, also has an excellent cafe that serves Ohlone food.
 - Tilden Little Farm, see adorable animals every day. It's also free!
+- Tilden Steam Trains, because trains are freaking cool (obviously).
 - The Chocolate Dragon, cute hot chocolate themed cafe.
